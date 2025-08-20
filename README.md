@@ -1,4 +1,4 @@
-# ProjetTankGame
+# Tank Game Project
 
 ![Slide 1](img/M1_MTI3D_24-25_rapport_TANK-1.png)
 ![Slide 2](img/M1_MTI3D_24-25_rapport_TANK-2.png)
